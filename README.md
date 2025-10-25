@@ -1,0 +1,2 @@
+# lilycellium-nmn-anthropic-integrated-student-hub
+Lilycellium Neural Micellar Network is a theoretical framework designed to unify student communication across digital platforms through an architecture inspired by biological mycelia and neural networks. The concept envisions a cooperative academic system where information and resources circulate between participants as signals in living networks .
